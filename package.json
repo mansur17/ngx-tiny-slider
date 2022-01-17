@@ -26,7 +26,7 @@
     "rxjs": "~6.5.5",
     "tiny-slider": "git+https://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:x-oauth-basic@github.com/mansur17/tiny-slider.git",
     "tslib": "^2.0.0",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.11.4" 
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~12.1.4",
